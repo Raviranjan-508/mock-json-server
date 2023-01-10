@@ -25,8 +25,8 @@
   ],
   "dogs": [
     {
-      " Name of breed": "Dog1",
-      "Age of pet": 5,
+      " Name": "Dog1",
+      "Age": 5,
       "Gender": "Female",
       "Place": "Rajsthan"
     }
