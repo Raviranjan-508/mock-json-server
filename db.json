@@ -30,5 +30,25 @@
       "Gender": "Female",
       "Place": "Rajsthan"
     }
+  ],
+  "critical" : [
+    {
+      "Name": "Critical"
+    }
+  ],
+  "major" : [
+    {
+      "Name": "Major"
+    }
+  ],
+  "medium" : [
+    {
+      "Name": "Medium"
+    }
+  ],
+  "low" : [
+    {
+      "Name": "Low"
+    }
   ]
 }
